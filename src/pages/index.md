@@ -25,10 +25,11 @@ sections:
     title: Why Elastisk ?
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |-
+          *  Articles much as you want + SKU catalogs
+          *  Millions of price and inventory changes
+          *  Tens of thousands of orders processed per day
+          *  Super speed changes
         align: left
         image: images/feature.svg
         image_position: right
