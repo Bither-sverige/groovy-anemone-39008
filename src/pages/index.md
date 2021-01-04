@@ -2,10 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Control your bussiness destiny.
+    subtitle: One Front-end to Rule Them All
     actions:
       - label: Learn More
         url: /features
@@ -18,9 +16,9 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: gray
       background_image: images/diagonal-lines.svg
-      background_image_opacity: 20
+      background_image_opacity: 30
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
