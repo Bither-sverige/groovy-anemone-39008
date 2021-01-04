@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: Why Elastisk ?
     features:
-      - title: Feature 1
+      - title: Built for scale
         content: |-
           *  Articles much as you want + SKU catalogs
           *  Millions of price and inventory changes
