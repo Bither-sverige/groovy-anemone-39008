@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Control your bussiness destiny.
+    title: Elastisk to Control your bussiness destiny.
     subtitle: One Front-end to Rule Them All
     actions:
       - label: Learn More
