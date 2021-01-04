@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: One Front-end to Rule Them All
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: One Front-end to Rule Them All
     actions:
       - label: Learn More
         url: /features
