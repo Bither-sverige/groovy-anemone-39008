@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: One Front-end to Rule Them All
+    title: Control your commerce destiny.
     subtitle: One Front-end to Rule Them All
     actions:
       - label: Learn More
