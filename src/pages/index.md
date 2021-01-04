@@ -39,9 +39,9 @@ sections:
             style: secondary
       - title: Lightning fast
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          * Java Script is very fast. Modern JAMstack is very good solution for
+          slow php backends. Make your cumstomers shopping experience much
+          faster one. 225ms avg. response time
         align: left
         image: images/feature.svg
         image_position: left
