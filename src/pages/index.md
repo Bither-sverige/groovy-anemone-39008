@@ -58,10 +58,9 @@ sections:
             url: /features
             style: secondary
       - title: Avoid downtime
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: |-
+          *    Sales ? or special offers. more traffic on site.No problem
+          *    100% Uptime
         align: left
         image: images/feature.svg
         image_position: right
