@@ -49,9 +49,7 @@ sections:
               Cache optimization
               Client data reuse
               Skeletons
-              and more
-
-          Bottom Line: sub-second page loads that are unmatched in the industry!
+              
         align: left
         image: images/feature.svg
         image_position: left
