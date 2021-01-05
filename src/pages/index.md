@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: E-lastisk to Control your bussiness destiny.
-    subtitle: One Front-end to Rule Them All
+    subtitle: One Front-end to for anything.
     actions:
       - label: Learn More
         url: /features
