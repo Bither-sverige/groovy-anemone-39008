@@ -39,9 +39,19 @@ sections:
             style: secondary
       - title: Lightning fast
         content: >-
-          * Java Script is very fast. Modern JAMstack is very good solution for
-          slow php backends. Make your cumstomers shopping experience much
-          faster one. 225ms avg. response time
+          e-lastisk goes the extra mile to squeeze speed out of every possible
+          real and user perceived performance optimization including:
+
+              Server Side Rendering
+              Automatic AMP creation
+              Predictive prefetching
+              Code splitting
+              Cache optimization
+              Client data reuse
+              Skeletons
+              and more
+
+          Bottom Line: sub-second page loads that are unmatched in the industry!
         align: left
         image: images/feature.svg
         image_position: left
