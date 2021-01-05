@@ -57,7 +57,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Avoid downtimeNo Black Friday/Cyber Monday outages100% Uptime
+      - title: Avoid downtime
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
