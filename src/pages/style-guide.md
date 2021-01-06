@@ -1,5 +1,5 @@
 ---
-title: 'Ecommerce '
+title: Ecommerce
 template: page
 ---
 
