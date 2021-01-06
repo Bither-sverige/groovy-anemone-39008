@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/1.svg
     image_position: right
     has_background: true
     background:
