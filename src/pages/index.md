@@ -51,7 +51,7 @@ sections:
               Skeletons
               
         align: left
-        image: images/feature.svg
+        image: images/4.svg
         image_position: left
         actions:
           - label: Learn More
