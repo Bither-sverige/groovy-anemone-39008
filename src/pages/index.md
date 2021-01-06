@@ -31,7 +31,7 @@ sections:
           *  Tens of thousands of orders processed per day
           *  Super speed changes
         align: left
-        image: images/3.svg
+        image: images/marvelous-stegosaurus.svg
         image_position: right
         actions:
           - label: Learn More
