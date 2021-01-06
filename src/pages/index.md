@@ -62,7 +62,7 @@ sections:
           *    Sales ? or special offers. more traffic on site.No problem
           *    100% Uptime
         align: left
-        image: images/feature.svg
+        image: images/5.svg
         image_position: right
         actions:
           - label: Learn More
